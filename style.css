@@ -1,0 +1,16 @@
+h1{
+	text-align:center;
+}
+table{
+	background-color:#CDCDCD;
+	margin:0 auto;
+	
+}
+table tr td{
+	width:32px;
+	height:32px;
+}
+table tr td:hover {
+    background-color:#AAA;
+	cursor:pointer;
+}
